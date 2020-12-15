@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "Sjw-t3-m3o"; */
+"Sjw-t3-m3o.title" = "%";
+
+/* Class = "NSTextFieldCell"; title = "Set line width"; ObjectID = "gM5-6o-FFh"; */
+"gM5-6o-FFh.title" = "Stroke Weight";
+
+/* Class = "NSTextFieldCell"; placeholderString = "100"; ObjectID = "rhX-0w-jLV"; */
+"rhX-0w-jLV.placeholderString" = "100";
