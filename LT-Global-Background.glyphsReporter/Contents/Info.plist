@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>20D91</string>
+	<string>22F66</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>LT-Global-Background</string>
 	<key>CFBundleIdentifier</key>
-	<string>leedotype.LT-Global-Background</string>
+	<string>com.leedotype.LT-Global-Background</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
@@ -27,21 +27,21 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>12E262</string>
+	<string></string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>11.3</string>
+	<string>13.3</string>
 	<key>DTSDKBuild</key>
-	<string>20E214</string>
+	<string>22E245</string>
 	<key>DTSDKName</key>
-	<string>macosx11.3</string>
+	<string>macosx13.3</string>
 	<key>DTXcode</key>
-	<string>1250</string>
+	<string>1431</string>
 	<key>DTXcodeBuild</key>
-	<string>12E262</string>
+	<string>14E300c</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.14</string>
+	<string>10.13</string>
 	<key>NSPrincipalClass</key>
 	<string>LT_Global_Background</string>
 </dict>

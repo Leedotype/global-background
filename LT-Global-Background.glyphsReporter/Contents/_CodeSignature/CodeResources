@@ -6,15 +6,15 @@
 	<dict>
 		<key>Resources/Base.lproj/ColorPicker.nib</key>
 		<data>
-		FUmuUAd9OelI8K5QqPbmu6wY9wU=
+		3hGQzMitZaFkjEN/QDrHQwdlhRM=
 		</data>
 		<key>Resources/Base.lproj/ErrorWindow.nib</key>
 		<data>
-		iOor80V/m20mXEJR8jsPCEJlq1s=
+		9JWSbjWQn4HV6g8aVKVfBC8H108=
 		</data>
 		<key>Resources/Base.lproj/WidthScroller.nib</key>
 		<data>
-		8yyVflL9xJjNewE8mY8WaBE/3dw=
+		ctTCaqKI3wR9s/4E28+3KkmEzR8=
 		</data>
 		<key>Resources/LT-Global-Background-Prefix.pch</key>
 		<data>
@@ -99,21 +99,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iKmrXecByUCAWVxNONcFBQW6zkSeyUSf7CP79Cez0UI=
+			vJu5s220XR7WqT0ZdUW0F7bg5yfA29WfI9jpXNwXc7I=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/ErrorWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i5L/fxJj78VyDFhXbJbpEdEYP6p2lda7PH/nlFeI9w8=
+			OHOpDsH6h5KsXJhPnzgTdPE1DIkZX8h3zkDpiu5Gy4I=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/WidthScroller.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2AKs/ZhjZzkxxdFfXvcdvf0talWW38vE5nfGoPPFNh4=
+			8Xg1S9JFfMgzyOyn0Smdo4QWYZ1NzW8t4PnogNE98xY=
 			</data>
 		</dict>
 		<key>Resources/LT-Global-Background-Prefix.pch</key>
