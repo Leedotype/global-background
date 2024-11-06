@@ -42,6 +42,8 @@
 	<string>14E300c</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.13</string>
+	<key>MinSystemVersion</key>
+	<string>10.13</string>
 	<key>NSPrincipalClass</key>
 	<string>LT_Global_Background</string>
 </dict>
